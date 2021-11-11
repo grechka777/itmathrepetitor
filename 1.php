@@ -1,4 +1,6 @@
 <?php
+include "1.html";
+
 echo '<a href="index.php">главная</a>';
 echo "<h1>Вычисления и условный оператор в PHP</h1>";
 
