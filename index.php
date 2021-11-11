@@ -1,2 +1,2 @@
 <?php
-$dd = 1;
+include "index.html";
